@@ -1,19 +1,11 @@
 ---
 layout: essay
 type: essay
-title: "Igniting the fire"
+title: "Preparing for WODs"
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
-published: false
-labels:
-  - Software Engineering
-  - Learning
+date: 2024-02-17
+published: True
 ---
+*Preparing for Invoice1*
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
-
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
-
-I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
-
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
+The WOD, Invoice1, was about creating a sales receipt for five different products. The Invoice was set up as a table and computed taxes, quantities, and total price. The computing was done dynamically using variables and expressions. For more information on the WOD, go to https://dport96.github.io/ITM352/morea/060.expressions-operators/experience-invoice1.html . I had some problems with the WOD as it took me 2 attempts to complete it. My first attempts at WODs usually aren't done with the expectation to finish it, as I aim to just get a grasp of what I am to do and see what I get stuck on so I can prepare for my next attempts. In my second attempt, I got stuck a few times but I was able to push through and finish it. The WOD was fairly straightforward in the beginning, as it involved a lot of writing down a few lines of code and then copying and pasting it multiple times. When it came to making computing the prices with addition and multiplication, it was also pretty straightforward as it was similar to what we learnt in the class lecture. I did face a problem with my decimals as one of my prices ended up with a very long decimal number and I couldn't figure out in time how to fix it to two decimal places with the "toFixed(2)" line. Since I was running down on time, I just decided to change the quantity and price of the product so it would end up as a nice number, a relatively easy solution to the problem. Making the table was straightforward as it suggested using the template of the example from the WOD page. The rest was straightforward as I did not experience errors whilst following the WOD instructions. In my preparation for the WOD, I knew that the WOD would involve making a table so I decided to pull up the table we made in the footer of the SmartPhoneProducts Lab. It helped a little bit as it reminded me how a table was formatted but I ended up using the template from the WOD page anyways. I do frequently look back at previous Labs or WODs if the work entails similar things we've already done, as a way to refresh my mind. If I had to do the WOD again, I might've tried to go a little faster as in my second attempt I wasn't really in a rush and could've cut down on a lot of time. I might also attempt to make the table in the other option listed, instead of just copying the template already provided in the WOD page. I also would like to figure out how to use the line to fix the decimal places to two, when I had the error with my extended prices. Overall, I think I had a good run at this WOD, I was able to finish the WOD and I also learnt what I needed to work on in the future.
