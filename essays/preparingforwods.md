@@ -5,7 +5,8 @@ title: "Preparing for WODs"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-17
 published: True
-labels: WODs
+labels: 
+- WODs
 ---
 *Preparing for Invoice1*
 
