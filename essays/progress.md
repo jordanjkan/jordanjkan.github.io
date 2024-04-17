@@ -4,9 +4,9 @@ type: essay
 title: "Progress in Programming"
 # All dates must be YYYY-MM-DD format!
 date: 2024-04-16
-published: true
+published: True
+labels : Progress
 ---
-_
 My programming skills have greatly improved in the following ways:
 I've gained a better understanding on how functions, files, statements, algorithms, etc. all work together to perform a process. My comprehension of what lines of code actually mean and how that code interacts with the server and other programs to perform a task has improved from when I first started. 
 
@@ -21,4 +21,3 @@ I learned a lot from my experience doing Assignment 1 and feel ready to work on 
 I think the class can be improved to help my learning in the following ways: To be honest, I am not too sure. There is help available and there's resources available to us. If there was anything we don't know we are expected to RTFM it so I feel like there isn't much to already improve on.
 
 What helps me the most in class are (WODs, Labs, class website, screencasts, readings, quizzes, one on one help, working with classmates, etc.): The labs/work we do in class is helpful. It helps me comprehend the things we are learning especially as I see Professor Port explain the code and write it in real-time and execute it in real-time.
-_
