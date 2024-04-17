@@ -5,7 +5,7 @@ title: "Progress in Programming"
 # All dates must be YYYY-MM-DD format!
 date: 2024-04-16
 published: true
-
+---
 _
 My programming skills have greatly improved in the following ways:
 I've gained a better understanding on how functions, files, statements, algorithms, etc. all work together to perform a process. My comprehension of what lines of code actually mean and how that code interacts with the server and other programs to perform a task has improved from when I first started. 
